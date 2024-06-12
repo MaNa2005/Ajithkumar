@@ -9,19 +9,7 @@
 </p>
 <b>All this codes are created by our developers 
 
-<a href='https://t.me/SHD_KHAN'>SHAHID KHAN 👨‍💻</a>.</b>
-
-<b><a href='https://t.me/TG_Bots_Supporter'>KISHORE 👨‍💻</a>.</b>
-
-<b><a href='https://t.me/parshucr'>parshucr 👨‍💻</a>.</b>
-
-<b><a href='https://t.me/anonymous7370'>N33VARPV2 👨‍💻</a>.</b>
-
-<b><a href='https://github.com/Mujahith123'>MUJAHITH 👨‍💻</a>.</b>
-
-<b><a href='https://github.com/Joelkb'>JOEL 👨‍💻</a>.</b>
-
-<b><a href='https://github.com/TeamHMT'>TEAMHMT 👨‍💻</a>.</b>
+<a href='https://t.me/KUSHALJK'>KUSHAL HK 👨‍💻</a>.</b>
 
 <b><u>
 we are nothing without your support please support us to bring more features in bot
@@ -69,9 +57,9 @@ we are nothing without your support please support us to bring more features in 
 - [x] 𝐴𝑢𝑡𝑜 𝐷𝑒𝑙𝑒𝑡𝑒
 - [x] 𝐴𝑛𝑑 𝑀𝑜𝑟𝑒...
 
-<b>𝑇𝑜 𝑘𝑛𝑜𝑤 𝑎𝑏𝑜𝑢𝑡 𝑎𝑙𝑙 𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠, 𝐽𝑜𝑖𝑛 𝑜𝑢𝑟 <a href='https://t.me/TG_BOTS_UPDATE'>𝑢𝑝𝑑𝑎𝑡𝑒𝑠 𝑐ℎ𝑎𝑛𝑛𝑒𝑙</a>.</b>
+<b>𝑇𝑜 𝑘𝑛𝑜𝑤 𝑎𝑏𝑜𝑢𝑡 𝑎𝑙𝑙 𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠, 𝐽𝑜𝑖𝑛 𝑜𝑢𝑟 <a href='https://t.me/kmsmovies1'>𝑢𝑝𝑑𝑎𝑡𝑒𝑠 𝑐ℎ𝑎𝑛𝑛𝑒𝑙</a>.</b>
 
-<a href='https://t.me/TG_Autofilter1_Bot'>🅳︎🅴︎🅼︎🅾︎ 🅱︎🅾︎🆃︎</a>
+<a href='https://t.me/AK2023'>🅳︎🅴︎🅼︎🅾︎ 🅱︎🅾︎🆃︎</a>
 
 ## 𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑠
 ```
