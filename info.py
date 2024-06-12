@@ -22,7 +22,7 @@ CACHE_TIME = int(environ.get('CACHE_TIME', 99999))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
 PICS = (environ.get('PICS', 'https://graph.org/file/334f55c6c77100e6b85e3.mp4')).split()
-NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/41a08d01363c18ca909f1.jpg")
+NOR_IMG = environ.get("NOR_IMG", "http://telegra.ph/file/2ab6ac6692cc50728ff30.jpg")
 MELCOW_VID = environ.get("MELCOW_VID", "https://te.legra.ph/file/6f55d902f9bf2d0afd4bb.mp4")
 SPELL_IMG = environ.get("SPELL_IMG", "https://te.legra.ph/file/15c1ad448dfe472a5cbb8.jpg")
 
@@ -44,8 +44,8 @@ NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", True))
 
 # MongoDB information
 DATABASE_URI = environ.get('DATABASE_URI', "")
-DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster0")
-COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
+DATABASE_NAME = environ.get('DATABASE_NAME', "Ajithkumar")
+COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Ajithkumar_AK')
 
 # Others
 VERIFY = bool(environ.get('VERIFY', True))
@@ -58,11 +58,11 @@ DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in enviro
 MAX_B_TN = environ.get("MAX_B_TN", "10")
 MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
 PORT = environ.get("PORT", "8080")
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/TG_SUPPORT_GROUP')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/TG_LINKS_CHANNEL')
-TUTORIAL = environ.get('TUTORIAL', 'https://t.me/TG_UPDATES1')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+J5zlO5boIu9mZGY1')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+W4cB_0g7ZWU2NWM1')
+TUTORIAL = environ.get('TUTORIAL', 'https://t.me/kmsmovies1')
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
-MSG_ALRT = environ.get('MSG_ALRT', 'ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : ɴ33ᴠᴀʀᴘ')
+MSG_ALRT = environ.get('MSG_ALRT', 'ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : ChandrU_AK')
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', ''))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "False")), False)
